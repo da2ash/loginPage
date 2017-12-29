@@ -96,6 +96,10 @@ html,body{
   border-top: 0;
 }
 
+.form-box ::placeholder {
+    color: #a2a1a1;
+}
+
 .form-box button.login{
   margin-top:15px;
   width: 90%;
